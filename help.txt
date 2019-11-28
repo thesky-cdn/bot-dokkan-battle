@@ -1,0 +1,44 @@
+{YELLOW}volume+c key to stop the bot.
+
+{LTYELLOW}help {GREEN}- shows this.
+{LTYELLOW}info {GREEN}- account info.
+{LTYELLOW}gift {GREEN}- accept gifts.
+{LTYELLOW}mission {GREEN}- accept missions.
+{LTYELLOW}news {GREEN}- in{GREEN}-game news.
+{LTYELLOW}banners {GREEN}- list of banners.
+{LTYELLOW}events {GREEN}- list of events.
+{LTYELLOW}summon <id> <s/m> {GREEN}- summon on banners.
+{LTYELLOW}capacity {GREEN}- increase box size. (5+)
+{LTYELLOW}name <name> {GREEN}- change your name.
+{LTYELLOW}stam {GREEN}- manual stamina refill.
+{LTYELLOW}quicksell {GREEN}- sell N, R, & statue.
+{LTYELLOW}wallpaper <id> {GREEN}- set wallpaper.
+{LTYELLOW}box {GREEN}- view your box contents.
+{LTYELLOW}streamline <quests/events> {GREEN}- complete all uncleared quests or events.
+{LTYELLOW}finishall <quests/events> {GREEN}- complete regardless if uncleared or not.
+{LTYELLOW}bossrush {GREEN}- complete all bossrush stages.
+{LTYELLOW}area <id> {GREEN}- complete all uncleared stages in an area.
+{LTYELLOW}stage <id> <difficulty> <runs> {GREEN}- complete an event stage.
+{LTYELLOW}potential {GREEN}- complete all daily potential events.
+{LTYELLOW}hercule {GREEN}- finish all hercule punch missions.
+{LTYELLOW}daily {GREEN}- complete all daily activities.
+{LTYELLOW}omegafarm {GREEN}- finish maximum limit of content.
+{LTYELLOW}items {GREEN}- support, training, orbs, treasure, special.
+{LTYELLOW}medals {GREEN}- list of your awakening medals.
+{LTYELLOW}wallpapers {GREEN}- list of wallpapers in database.
+{LTYELLOW}teams {GREEN}- list of teams.
+{LTYELLOW}deck <team number> {GREEN}- change which team to use.
+{LTYELLOW}ezas {GREEN}- list of active EZAs.
+{LTYELLOW}zlevel <eza id> <level>{GREEN}- run EZA at specific level.
+{LTYELLOW}eza <eza id> {GREEN}- clear EZA to max level.
+{LTYELLOW}alleza {GREEN}- complete all active EZA to max.
+{LTYELLOW}list {GREEN}- your friend list.
+{LTYELLOW}search <id> {GREEN}- search for a friend.
+{LTYELLOW}friend <id> {GREEN}- add a friend.
+{LTYELLOW}accept <id> {GREEN}- accept a pending friend.
+{LTYELLOW}dragonballs {GREEN}- list of dragonballs collected & missing.
+{LTYELLOW}wish {GREEN}- seek out missing dragonballs to make a wish.
+{LTYELLOW}identifier {GREEN}- get your identifier.
+{LTYELLOW}refresh {GREEN}- refreshes the client.
+{LTYELLOW}transfer {GREEN}- output TC, delete save, & exit.
+{LTYELLOW}exit {GREEN}- main menu.
